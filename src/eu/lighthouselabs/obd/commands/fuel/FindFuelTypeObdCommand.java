@@ -18,7 +18,7 @@ public class FindFuelTypeObdCommand extends ObdCommand {
 	 * Default ctor.
 	 */
 	public FindFuelTypeObdCommand() {
-		super("10 51");
+		super("01 51");
 	}
 
 	/**
